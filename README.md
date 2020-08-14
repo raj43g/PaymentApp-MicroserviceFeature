@@ -18,8 +18,3 @@ Step 4 : Spring security has been added as part of this project for the roles li
 Step 5: Security has been provided for the email id, it should be unique everytime you create new user and admin roles. While doing the testing through POSTMAN API, provide the email and password section in Authorization to validate and allow you to perfrom with the crud operations of account and alert modules.
 
 Step 6: Validate the data in the mongodb for all the crud operations which you had performed.
-
-
-PaymentApp-MicroserviceFeature
-
-git commit -m “initial commit for payment POC”
